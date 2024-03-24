@@ -10,7 +10,7 @@ import userRoutes from "./routes/user.routes.js";
 import connectToMongoDB from "./db/connectToMongoDB.js";
 import { app, server } from "./socket/socket.js";
 
-const PORT = 8000 || 5000;
+const PORT = 8000;
 
 const __dirname = path.resolve();
 
