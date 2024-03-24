@@ -1,8 +1,29 @@
-# React + Vite
+# Chat App Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend component of a chat application.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- HTML5
+- CSS3
+- TailwindCSS
+- JavaScript
+- React.js
+- Vite
+- Zustand
+- WebSocket(socket.io)
+
+## Getting Started
+
+To get started with the project, follow these steps:
+
+1. Clone the repository.
+2. Install the dependencies using `npm install`.
+3. Start the development server using `npm run dev`.
+
+## Features
+
+- Real-time messaging
+- User authentication
+- Chat room creation
+- Message history
