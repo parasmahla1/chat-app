@@ -38,3 +38,5 @@ To clone and run this project, follow these steps:
     ```bash
     npm start
     ```
+## Deployed Link
+    https://chat-app-4dxw.onrender.com
